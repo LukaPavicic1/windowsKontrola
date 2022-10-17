@@ -1,0 +1,12 @@
+C:\Users\ucenik\Documents\windowsKontrola\bin\Debug\windowsKontrola.exe.config
+C:\Users\ucenik\Documents\windowsKontrola\bin\Debug\windowsKontrola.exe
+C:\Users\ucenik\Documents\windowsKontrola\bin\Debug\windowsKontrola.pdb
+C:\Users\ucenik\Documents\windowsKontrola\obj\Debug\windowsKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\windowsKontrola\obj\Debug\windowsKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\windowsKontrola\obj\Debug\windowsKontrola.Form1.resources
+C:\Users\ucenik\Documents\windowsKontrola\obj\Debug\windowsKontrola.Properties.Resources.resources
+C:\Users\ucenik\Documents\windowsKontrola\obj\Debug\windowsKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\windowsKontrola\obj\Debug\windowsKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\windowsKontrola\obj\Debug\windowsKontrola.exe
+C:\Users\ucenik\Documents\windowsKontrola\obj\Debug\windowsKontrola.pdb
+C:\Users\ucenik\Documents\windowsKontrola\obj\Debug\windowsKontrola.Form2.resources
